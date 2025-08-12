@@ -1,0 +1,11 @@
+title: "JMak22"
+description: "Notes & posts"
+theme: minima
+# User site: leave baseurl empty
+baseurl: ""
+url: "https://jmak22.github.io"
+
+# Nice-to-haves
+paginate: 10
+paginate_path: "/page:num"
+permalink: /:year/:month/:day/:title/
