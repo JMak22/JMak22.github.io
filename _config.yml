@@ -1,6 +1,6 @@
 title: "JMak22"
 description: "Notes & posts"
-theme: minima
+theme: jekyll-theme-chirpy
 # User site: leave baseurl empty
 baseurl: ""
 url: "https://jmak22.github.io"
