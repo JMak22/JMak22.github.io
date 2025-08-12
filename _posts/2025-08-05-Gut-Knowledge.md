@@ -7,7 +7,7 @@ tags:
 categories:
   - Life
 ---
-Gut knowledge vs book knowledge
+![Path taken while searching for work](/assets/uploads/Blog header - work search.jpg)
 
 One summer my mom insisted that I find a job. I was in high school, just finished the third year of HS and at loose ends, hoping to spend some time vegging, reading books and going for bike rides. She pushed, nagged, badgered until I painstakingly wrote a resume, feeling monumentally insecure about everything I was writing down, dressed up and started walking up and down Yonge St, handing out my resume in every place that looked remotely like it might be hiring at some point. It was grueling. I did it.
 
