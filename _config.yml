@@ -9,3 +9,6 @@ url: "https://jmak22.github.io"
 paginate: 10
 paginate_path: "/page:num"
 permalink: /:year/:month/:day/:title/
+
+sass:
+  style: compressed
