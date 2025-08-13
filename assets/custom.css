@@ -1,0 +1,66 @@
+/* === Palette === */
+:root{
+  --bg:        #282828; /* page background */
+  --text:      #ffffff; /* main text */
+  --muted:     #6c6559; /* meta text, dates */
+  --link:      #f59e0b; /* links */
+  --link-hov:  #f7cd85; /* link hover */
+  --accent:    #3c92e6; /* buttons/tags */
+  --surface:   #0b1220; /* header/footer/pills */
+  --border:    #334155; /* subtle borders */
+}
+
+/* === Global === */
+html, body{
+  background: var(--bg);
+  color: var(--text);
+}
+
+/* Links */
+a{ color: var(--link); text-decoration-thickness: 2px; }
+a:hover{ color: var(--link-hov); }
+
+/* Header / footer bars */
+.site-header, .site-footer{
+  background: var(--surface);
+  border: none;
+}
+.site-title, .site-title:visited{ color: var(--accent); }
+.site-nav .page-link{ color: var(--text); }
+
+/* Post list, titles, meta */
+.post-title, .post-title a{ color: var(--text); }
+.post-meta{ color: var(--muted); }
+
+/* Code blocks (optional contrast bump) */
+.highlight, pre, code{
+  background: #0a0f1a;
+  border-radius: 6px;
+}
+
+/* Pagination “buttons” */
+.pagination a, .pagination span{
+  display: inline-block;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  padding: .25rem .6rem;
+  border-radius: 9999px;
+}
+.pagination a:hover{ filter: brightness(1.15); }
+
+/* Tag-like pills (if you render tags as links anywhere) */
+.post-tags a,
+a[href*="/tag/"],
+a[href*="/tags/"]{
+  background: var(--surface);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 9999px;
+  padding: .08rem .5rem;
+  text-decoration: none;
+}
+.post-tags a:hover{ background: var(--accent); color: #0b0b0b; }
+
+/* Optional: subtle borders off */
+hr{ border-color: var(--border); }
