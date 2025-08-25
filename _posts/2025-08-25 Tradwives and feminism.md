@@ -1,3 +1,18 @@
+---
+title: Tradwives and feminism
+date: 2025-08-25
+tags:
+  - "#blaugust"
+  - "#blaugust2025"
+  - "#burnout"
+  - "#family"
+  - "#values"
+  - "#traditon"
+  - "#buddhism"
+categories:
+  - Life
+---
+
 I've brushed up against the tradwife trend, seen it in the periphery of my reading and internet browsing. It always seemed utterly ridiculous to watch people perform chores or cook for an audience -- it's not the kind of fantasy content that I go for.
 
 There was also a period when we lived in the Annex in Toronto, surrounded by stately Victorian multi-million dollar homes and I spent so much time trying to fight off yearning for a larger place to live, something bigger than our 1 bedroom apartment, 3 cats, clutter and one toddler with all the accoutrements that I learned to stay away from fantasies that will cause me pain. My Buddhist teachers advise being aware of what you're feeling in the moment so that you can learn which thoughts and actions lead to greater joy and peace and then move away from that which brings pain.
