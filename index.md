@@ -1,4 +1,4 @@
 ---
 layout: home
-title: "Reflections"
+title: "Future home of the portfolio and blog"
 ---
